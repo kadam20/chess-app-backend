@@ -1,7 +1,7 @@
-import { Controller } from "@nestjs/common";
-import { VariationService } from "./variation.service";
+import { Controller } from '@nestjs/common';
+import { VariationService } from './variation.service';
 
-@Controller("variation")
+@Controller('variation')
 export class VariationController {
-	constructor(private readonly variationService: VariationService) {}
+    constructor(private readonly variationService: VariationService) {}
 }

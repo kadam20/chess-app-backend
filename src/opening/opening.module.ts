@@ -9,5 +9,5 @@ import { OpeningService } from './opening.service';
     controllers: [OpeningController],
     providers: [OpeningService],
     exports: [TypeOrmModule],
-  })
+})
 export class OpeningModule {}

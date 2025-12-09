@@ -9,5 +9,5 @@ import { GameService } from './game.service';
     controllers: [GameController],
     providers: [GameService],
     exports: [TypeOrmModule],
-  })
+})
 export class GameModule {}

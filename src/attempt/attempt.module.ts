@@ -9,5 +9,5 @@ import { AttemptService } from './attempt.service';
     controllers: [AttemptController],
     providers: [AttemptService],
     exports: [TypeOrmModule],
-  })
+})
 export class AttemptModule {}
