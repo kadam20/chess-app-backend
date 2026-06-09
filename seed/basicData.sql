@@ -82,3 +82,6 @@ b6 9. Ngf3 Bb7 10. Ne5 O-O 11. g4 Ne7 12. Qf3 *', 1),
 ('[Stone Wall] 2', 'd4 d5 2. Bf4 Nf6 3. e3 e6 4. Nd2 c5 5. c3 Nc6 6. Bd3 Bd6 7. Bxd6 Qxd6 8. f4
 cxd4 9. cxd4 Bd7 10. a3 O-O 11. Ngf3 Ne7 12. O-O Bc6 13. Ne5 Nd7 14. Qh5 f5 15.
 Nxd7 Qxd7 16. Nf3 Qe8 17. Qxe8 Rfxe8 18. Rfc1 *', 1),
+('[Stone Wall] 2', 'd4 d5 2. Bf4 Nf6 3. e3 e6 4. Nd2 c5 5. c3 Nc6 6. Bd3 Bd6 7. Bxd6 Qxd6 8. f4
+cxd4 9. cxd4 Bd7 10. a3 O-O 11. Ngf3 Ne7 12. O-O Bc6 13. Ne5 Nd7 14. Qh5 f5 15.
+Nxd7 Qxd7 16. Nf3 Qe8 17. Qxe8 Rfxe8 18. Rfc1 *', 1), --deletelater
