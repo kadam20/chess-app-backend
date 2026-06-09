@@ -10,12 +10,12 @@ export class Variation {
     name: string;
 
     @Column()
-    moves: number;
+    moves: string;
 
     @ManyToOne(() => Opening, (opening) => opening.variations)
     opening: Opening;
 
-    constructor(moves: number, name: string, opening: Opening) {
+    constructor(moves: string, name: string, opening: Opening) {
         this.moves = moves;
         this.name = name;
         this.opening = opening;
